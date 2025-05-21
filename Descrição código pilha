@@ -1,0 +1,1 @@
+Serve para armazenar dados de forma ordenada, onde o último a entrar é o primeiro a sair (estrutura LIFO). É útil para desfazer ações, armazenar passos ou controlar chamadas de funções.
